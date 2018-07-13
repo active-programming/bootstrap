@@ -3,11 +3,6 @@
   "description": "Bootstrap 3.3.7 release with different name of NPM package",
   "version": "3.3.7",
   "keywords": [
-    "css",
-    "less",
-    "mobile-first",
-    "responsive",
-    "front-end",
     "framework",
     "web"
   ],
@@ -23,10 +18,10 @@
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twbs/bootstrap.git"
+    "url": "https://github.com/active-programming/bootstrap337.git"
   },
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap/issues"
+    "url": "https://github.com/active-programming/bootstrap337/issues"
   },
   "license": "MIT",
   "devDependencies": {
