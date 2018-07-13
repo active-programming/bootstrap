@@ -1,13 +1,7 @@
 {
-  "name": "twbs/bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "adamasantares/bootstrap337",
+  "description": "Bootstrap 3.3.7 release with different name of Composer package",
   "keywords": [
-    "css",
-    "js",
-    "less",
-    "mobile-first",
-    "responsive",
-    "front-end",
     "framework",
     "web"
   ],
@@ -23,7 +17,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/twbs/bootstrap/issues"
+    "issues": "https://github.com/active-programming/bootstrap337/issues"
   },
   "license": "MIT",
   "extra": {
