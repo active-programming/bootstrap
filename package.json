@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "bootstrap337",
+  "description": "Bootstrap 3.3.7 release with different name of NPM package",
   "version": "3.3.7",
   "keywords": [
     "css",
